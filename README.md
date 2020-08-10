@@ -5,6 +5,12 @@
 -->
 I’m Kunal, Class of 2020 Graduate. I am a Full Stack Cloud Native Developer and an active Open Source contributor. I build things mostly in Cloud.
 
+Reach out to me via [Knlsharma.github.io](https://knlsharma.github.io)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Knlsharma&show_icons=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=Knlsharma)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
